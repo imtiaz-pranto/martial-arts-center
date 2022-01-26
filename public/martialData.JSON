@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Martial Art Training",
+        "trainer": "Master Abdur Rahman",
+        "category": "Professional",
+        "description": "There are two side in Martial Art, one is physical development, another is phycological or ...",
+        "fee": 10500,
+        "img": "https://as2.ftcdn.net/v2/jpg/02/84/19/03/1000_F_284190327_4EpqUyPqMMamBEQRe8MKeOScE97JpPGj.jpg"
+        
+    },
+    {
+        "id": 2,
+        "title": "Master on Kung Fu",
+        "trainer": "Ostad Mahmudul Hasan",
+        "category": "Self-Defence",
+        "description": "Kung Fu originated in the 5th century at the Shaolin Temple, a Zen shrine originated in China...",
+        "fee": 9500,
+        "img": "https://as1.ftcdn.net/v2/jpg/01/25/72/16/1000_F_125721687_tWsLUNpna01QqWPVTowF9UxknECCuOcd.jpg"
+        
+    },
+    {
+        "id": 3,
+        "title": "Self-Defence for Women",
+        "trainer": "Master Mithila Mimi",
+        "category": "Self Defence",
+        "description": "Self-defense techniques and martial arts training help women to be confident in their originated personal lives...",
+        "fee": 5500,
+        "img": "https://as2.ftcdn.net/v2/jpg/00/38/07/21/1000_F_38072154_OmkDmkvUgKWQhFeP1FENThnkQe3vBHTQ.jpg"
+        
+    },
+    {
+        "id": 4,
+        "title": "Young Wushu Master",
+        "trainer": "Ostad Jasim Mia",
+        "category": "Professional",
+        "description": "Young who come to learn kung fu at the Shaolin Temple are called monks. A sect of Buddhism called ‘Zen’...",
+        "fee": 9300,
+        "img": "https://as2.ftcdn.net/v2/jpg/02/81/93/33/1000_F_281933314_Zf26QTBxeWfjPxi26GKEbaDm1hYbH3eh.jpg"
+        
+    },
+    {
+        "id": 5,
+        "title": "Self Defence for Kids",
+        "trainer": "Master Israt Meherin",
+        "category": "Self Defence",
+        "description": "Childhood is the best time for self-defense training. Since a child’s body is flexible at this age...",
+        "fee": 4500,
+        "img": "https://as2.ftcdn.net/v2/jpg/01/22/25/97/1000_F_122259765_ez7BqBoIjQTvFCWH0CpVDVUVCybSmFRG.jpg"
+        
+    },
+    {
+        "id": 6,
+        "title": "Self Defence Hacks",
+        "trainer": "Master Abdur Rahman",
+        "category": "Training",
+        "description": "Our graded exercise techniques develop your body naturally. Our focus of development of your fitness...",
+        "fee": 2500,
+        "img": "https://as2.ftcdn.net/v2/jpg/04/27/41/99/1000_F_427419984_qD6A6t5Yj1mP6b5LVLW5f14XTi0p4ICk.jpg"
+        
+    },
+    {
+        "id": 7,
+        "title": "KungFu for Senior Citizen",
+        "trainer": "Master Abdullah Al Monsur",
+        "category": "Training",
+        "description": "Our Course plan is so unique that a person of 60 years old can also participate in our classes. Our free hand ...",
+        "fee": 3500,
+        "img": "https://as1.ftcdn.net/v2/jpg/03/34/34/02/1000_F_334340211_0rFcgjWY4CmjMsfcbJRe2P9FlBj7xZQn.jpg"
+        
+    },
+    {
+        "id": 8,
+        "title": "Professional Wushu Traing",
+        "trainer": "Ostad Jalal Kha",
+        "category": "Professional",
+        "description": "Wushu is a multi-sport games which comes from the Chinese Martial Art Kung Fu. Wushu is also known as the modern ...",
+        "fee": 10500,
+        "img": "https://as2.ftcdn.net/v2/jpg/00/68/25/13/1000_F_68251392_rh9gdEywBcqT4kDdxmRn6ee7q6y894tr.jpg"
+        
+    },
+    {
+        "id": 9,
+        "title": "Kung Fu Training As a Career",
+        "trainer": "Master Abdur Rahman",
+        "category": "Training",
+        "description": "Kung Fu is the only natural art in all martial arts, which helps you get fitter, stronger and gain more confidence ... ",
+        "fee": 3300,
+        "img": "https://as2.ftcdn.net/v2/jpg/00/64/98/91/1000_F_64989182_2m8FpbDqlx6Y2PWNP1W1V0leC21wroJj.jpg"
+        
+    }
+]

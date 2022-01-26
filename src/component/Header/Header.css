@@ -1,0 +1,17 @@
+.header-conatiner{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #0A0D1B;
+    padding: 10px 0px;
+}
+.logo{
+    width: auto;
+}
+.navbar a{
+    text-decoration: none;
+    padding: 7px;
+    color: white;
+    font-size: 20px;
+}

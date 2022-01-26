@@ -1,0 +1,29 @@
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+    padding: 20px 30px;
+    
+}
+.top-training{
+    text-align: center;
+    font-size: 40px;
+    color: #E33C4E;
+}
+.view-all{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: #0A0D1B;
+    padding: 15px 35px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.explore{
+    text-align: center;
+    margin-top: 0px;
+}
+.all-course{
+    color: #E33C4E;
+    margin-top: 0;
+}

@@ -1,0 +1,14 @@
+.not-found{
+    text-align: center;
+    color: rgb(182, 32, 32);
+}
+.not-found-img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.img-section{
+    margin-bottom: 90px;
+}

@@ -1,0 +1,43 @@
+.training-card-container{
+    padding: 20px;
+    border: 1px solid #0A0D1B;
+}
+.training-card-container:hover{
+    box-shadow: 2px 2px 8px 8px rgb(204, 197, 248);
+}
+.card-image{
+    width: 333px;
+    height: 220px;
+}
+.card-text{
+    text-align: center;
+}
+.card-title{
+    font-size: 22px;
+    font-weight: 630;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.card-body{
+    padding: 5px 15px;
+    background-color:  #85858a;
+    color: rgb(0, 0, 0);
+    margin: 17px 0px;
+}
+.card-text-style{
+    font-size: 15px;
+    text-align: center;
+    font-weight: 500;
+}
+.enroll-btn{
+    background-color: #E33C4E;
+    color: white;
+    padding: 10px 30px;
+    border: 2px solid white;   
+    cursor: pointer;
+}
+.card-footer{
+    display: flex;
+    column-gap: 68px;
+}

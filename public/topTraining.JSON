@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Martial Art Training",
+        "trainer": "Master Abdur Rahman",
+        "category": "Professional",
+        "description": "There are two side in Martial Art, one is physical development, another is phycological or mental health pursuit for inner...",
+        "fee": 10500,
+        "img": "https://as2.ftcdn.net/v2/jpg/02/84/19/03/1000_F_284190327_4EpqUyPqMMamBEQRe8MKeOScE97JpPGj.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Self-Defence for Women",
+        "trainer": "Master Mithila Mimi",
+        "category": "Self Defence",
+        "description": "Self-defense techniques and martial arts training help women to be confident in their personal lives worth...",
+        "fee": 5500,
+        "img": "https://as2.ftcdn.net/v2/jpg/00/38/07/21/1000_F_38072154_OmkDmkvUgKWQhFeP1FENThnkQe3vBHTQ.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Young Wushu Master",
+        "trainer": "Ostad Jasim Mia",
+        "category": "Professional",
+        "description": "Young who come to learn kung fu at the Shaolin Temple are called monks. A sect of Buddhism called ‘Zen’ started...",
+        "fee": 9300,
+        "img": "https://as2.ftcdn.net/v2/jpg/02/81/93/33/1000_F_281933314_Zf26QTBxeWfjPxi26GKEbaDm1hYbH3eh.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Self Defence for Kids",
+        "trainer": "Master Israt Meherin",
+        "category": "Self Defence",
+        "description": "Childhood is the best time for self-defense training. Since a child’s body is flexible at this age, he can easily master...",
+        "fee": 4500,
+        "img": "https://as2.ftcdn.net/v2/jpg/01/22/25/97/1000_F_122259765_ez7BqBoIjQTvFCWH0CpVDVUVCybSmFRG.jpg"
+    }
+]

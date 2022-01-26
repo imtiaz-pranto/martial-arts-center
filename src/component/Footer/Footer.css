@@ -1,0 +1,32 @@
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+    justify-content: center;
+
+    background-color: #0A0D1B;
+    padding: 40px;
+    margin-top: 20px;
+    color: white;
+}
+
+.footer-style{
+    padding-left: 65px;
+}
+.fab{
+    color: white;
+    font-size: 40px;
+    padding-right: 30px;
+}
+.subscribe-input{
+    padding: 10px;
+}
+
+.subscribe-btn{
+    background-color: #0A0D1B;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: 1px solid white;
+    
+}

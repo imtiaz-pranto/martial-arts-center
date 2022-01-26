@@ -1,0 +1,18 @@
+.about-section{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 80px;
+    
+}
+.about-title{
+    margin-top: 0;
+}
+.details-us{
+    text-align: justify;
+}
+.about-us-btn{
+    padding: 10px 20px;
+    border: 2px solid #0A0D1B;
+    border-radius: 20px;
+    font-weight: 600;
+}
